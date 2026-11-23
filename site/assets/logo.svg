@@ -1,0 +1,14 @@
+<svg version="1.1" id="elnet-logo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 233 170.1" style="enable-background:new 0 0 233 170.1;" xml:space="preserve">
+<style type="text/css">
+	.M-elnet-logo__space{fill:none;}
+	.M-elnet-logo__gray{fill:#808285;}
+	.M-elnet-logo__green{fill:#00595A;}
+</style>
+<rect id="min-prostor" class="M-elnet-logo__space" width="233" height="170.1"/>
+<path id="T-gray" class="M-elnet-logo__gray" d="M208.6,113.4V61.8h-19.3v-5.1H233v5.1h-19.3v51.6H208.6z"/>
+<path id="E-gray" class="M-elnet-logo__gray" d="M148,113.4V56.7h36.9v5.1h-31.7v21H182v4.5h-28.9v21h31.7v5.1H148z"/>
+<path id="N-gray" class="M-elnet-logo__gray" d="M96.9,113.4V56.7h5.1l35.1,48.2V56.7h5.1v56.7h-5.1L102,65.2v48.2H96.9z"/>
+<path id="L-color" class="M-elnet-logo__green" d="M48.8,113.4V56.7h17v43.7h25.5v13H48.8z"/>
+<path id="E-color" class="M-elnet-logo__green" d="M0,113.4V56.7h42.5v13H17v9.1h22.7v12.5H17v9.1h25.5v13H0z"/>
+</svg>
